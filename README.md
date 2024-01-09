@@ -1,9 +1,7 @@
-### Hi there 👋
+# About Yousef Maraqa
 
-<!--
-**yousefmaraqa/yousefmaraqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at*American Community School*in *Amman,Jordan* and this is my 5th year attending Acs.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
